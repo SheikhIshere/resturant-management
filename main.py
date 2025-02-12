@@ -39,6 +39,7 @@ def main():
 
     # showing employees
     # restaurant.show_employees() #why it's not showing up
+    #kjfdhjghkj
 
     # customer 
     customer_1 = Customer('sakib khan', 6, 'king@khan.com', "banani", 100000)
